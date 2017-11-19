@@ -31,6 +31,7 @@ gem 'bcrypt'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
+gem 'jquery-rails'
 gem 'bootstrap-sass'
 
 group :development, :test do
